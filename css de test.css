@@ -1,0 +1,69 @@
+
+body{background-color: rgba(255, 0, 0, 0.432);}
+header{background-color:rgb(77, 150, 77) ;
+height: 50px;}
+header{display: flex;
+align-items: center;
+justify-content: center;
+position: fixed;
+width:100%;
+
+
+} 
+
+#mdec{position: absolute;
+left: 0;}
+
+
+
+.buscar{
+    display: flex;
+       
+    border-radius: 20px;
+    
+    width:  300px;
+    height: 30px;
+   
+}
+
+.menu{
+    background-color: rgb(52, 202, 202);
+    top: 58px;
+    width: 190px;
+    height: 1000px;
+    position: fixed;
+
+}
+#lista{
+    width: 1px;
+    
+
+}
+.list{text-decoration: none;
+color: rgb(0, 0, 0);
+font-size: 25px;
+display: flex;
+align-items: space-between;
+}
+a:hover{
+    font-size: 20px;
+    color: rgb(46, 45, 45);
+}
+.estrella{
+    position: relative;
+    left: 400px;
+    top: 80px;
+}
+.mono{position: relative;
+    left: 580px;
+    top: 80px;}
+.estrella2{
+    position: relative;
+    left: 760px;
+    top: 80px;
+}
+.clip{
+    position: relative;
+    right: 212px;
+    top: 500px;
+}
