@@ -1,4 +1,4 @@
 holaaaaaaaaaaaaaaaaaaaaa
 compraaaaaaaaaaaaaaaaaaa
-no se piede comprar
+no se puede comprar
 :( :( :( ;(
